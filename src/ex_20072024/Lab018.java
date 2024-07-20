@@ -5,9 +5,10 @@ public class Lab018 {
         // byte b =127;  //-127 to 128
          char c= 'A';
         System.out.println(c);
-         char b='b';
+         char b='$';
         System.out.println(b);
-
+         char c3='\n';
+        System.out.println(c3);
 
 
     }
