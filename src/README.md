@@ -1,7 +1,6 @@
 # Java Programs
 
-Java Programs
-Author - Rudra Prasad
+Author - Pramod
 
 This Repo contains the source code for the Exercise that we have done in the ATB7x batch
 
@@ -16,3 +15,4 @@ Exception
 Core Java.pdf
 
 [Java Notes] - TheTestingAcademy (Pramod Sir) (1).pdf
+
