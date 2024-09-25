@@ -14,7 +14,7 @@ public class Lab90 {
 //        D: 60-70;
 //        E: 50-60;
 //        F: 40-50;
-
+        char grade;
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter your marks");
         int score = sc.nextInt();
@@ -37,9 +37,15 @@ public class Lab90 {
             System.out.println("Your grade is 'F");
 
         }
+//        else if (score<=0 || score>100)
+//        {
+//            System.out.println("LoL !! Are you good?");
+//            grade = 'O';
+//        }
         else {
             System.out.println("You are failed");
         }
+
         }
     }
 
